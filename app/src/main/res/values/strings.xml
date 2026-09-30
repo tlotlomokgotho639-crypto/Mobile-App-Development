@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Pantry Manager</string>
+    <string name="pantry_title">Pantry</string>
+    <string name="recipes_title">Suggested Recipes</string>
+    <string name="settings_title">Settings</string>
+    <string name="add_ingredient_title">Add Ingredient</string>
+    <string name="edit_ingredient_title">Edit Ingredient</string>
+    <string name="recipe_detail_title">Recipe Details</string>
+    <string name="no_recipes_match">No recipes match your pantry yet - add more ingredients</string>
+</resources>
